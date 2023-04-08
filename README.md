@@ -29,4 +29,8 @@ Humanoid robot project aiming to create a working humanoid for academic purposes
 - you can do this Alex, just breathe
 - next stages of work concentrare more on the algorithms and general structure so that I can actually go forward
 
+
+![image](https://user-images.githubusercontent.com/92490827/230740708-eaf221db-e9b6-4cfa-95d1-bf55982639a5.png)
+
+
 Onshape Link: https://cad.onshape.com/documents/6492b26624eafc8540cf522c/w/7331fc5b38b83009165e4851/e/0ceba0754ce9d00242230898
